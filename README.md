@@ -17,7 +17,7 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,react,angular,nodejs,express,sqlite,git,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,react,angular,nodejs,express,sqlite,git,github,joomla&perline=9" />
   </a>
 </p>
 
