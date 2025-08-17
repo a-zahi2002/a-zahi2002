@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Azmad Zahi
 
-🎓 Information Systems Undergraduate at Sabaragamuwa University of SriLanka 
+🎓 Information Systems Undergraduate at Sabaragamuwa University of SriLanka                                      
 💻 Passionate about **Cybersecurity | Cloud Computing | System & Business Analysis | Full Stack Development**  
 🌱 Completed **Full Stack Developer Course** and **Project Management Foundation & Project Scope Management** from CODL Moratuwa  
 📍 Sri Lanka
