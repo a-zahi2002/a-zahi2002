@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Azmad Zahi
 
-🎓 Information Systems Undergraduate at Sabaragamuwa University of SriLanka                                      
+🎓 Information Systems Undergraduate at **Sabaragamuwa University of Sri Lanka**  
 💻 Passionate about **Cybersecurity | Cloud Computing | System & Business Analysis | Full Stack Development**  
 🌱 Completed **Full Stack Developer Course** and **Project Management Foundation & Project Scope Management** from CODL Moratuwa  
 📍 Sri Lanka
@@ -15,15 +15,12 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 
 ### 🚀 Skills
 
-<p float="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -53,4 +50,12 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-zahi-faleel-a929411aa)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/a-zahi-faleel-a929411aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:a.zahi2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
