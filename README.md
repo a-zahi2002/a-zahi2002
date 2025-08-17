@@ -17,8 +17,9 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,react,angular,nodejs,express,sqlite,git,github,joomla&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,react,angular,nodejs,express,sqlite,git,github&perline=12" />
   </a>
+  <img src="https://img.shields.io/badge/Joomla-FF1B2D?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla" />
 </p>
 
 ---
