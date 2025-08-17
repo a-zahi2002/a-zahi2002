@@ -17,7 +17,7 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,react,angular,nodejs,express,sqlite,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,react,angular,nodejs,express,sqlite,git,github&perline=8" />
   </a>
 </p>
 
@@ -44,11 +44,14 @@ I enjoy learning new tools and frameworks, and I aim to combine my technical ski
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-zahi-faleel-a929411aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/a-zahi2002" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="50" height="50"/>
   </a>
-  <a href="mailto:a.zahi2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/a-zahi-faleel-a929411aa" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:a.zahi2002@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Email" width="50" height="50"/>
   </a>
 </p>
 
